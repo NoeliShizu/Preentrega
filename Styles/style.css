@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-image: url(/home/noe/Escritorio/Proyecto/imgs/o1bukiCQ.jpeg);
+}
+
+nav{
+    background-color: rgb(238, 177, 177);
+   
+}
+
+li{
+    display: inline-block;
+}
+main{
+    background-color: mistyrose;
+    
+}
+
+section{
+    background-color: rgb(184, 151, 151);
+
+}
+
+form{
+    text-align:start;
+    background-color:mistyrose }
+
+footer{
+    background-color: rgb(238, 177, 177);
+
+}
+
+h2{
+    color: indianred;
+    font-size: larger;
+
+}
+@media (max-width: 800px){
+    * {
+        background-color: lightpink;
+        
+    }
+    
+}
